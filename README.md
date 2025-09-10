@@ -8,7 +8,9 @@
 <a href="https://www.linkedin.com/in/wexdnx/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
 
 - 🔭 Atualmente estou Estudando
 - 🌱 Atualmente estou aprendendo ADM, Back-End & Front-End
