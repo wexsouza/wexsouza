@@ -24,7 +24,8 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wexsouza&show_icons=true&theme=radical)
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley123&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wexsouza&layout=compact&theme=radical)
+
 
 
 
