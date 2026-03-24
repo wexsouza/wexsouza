@@ -28,7 +28,7 @@
 <a href="https://www.instagram.com/wexsantos/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="[https://www.youtube.com/@wexsantos](https://www.youtube.com/watch?v=_2rIdiVJe9o)" target="_blank">
+<a href="https://youtu.be/_2rIdiVJe9o?si=cvLPi37TC0rqUWvz" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </div>
