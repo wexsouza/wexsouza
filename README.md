@@ -13,8 +13,9 @@
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**  
 - 🎓 Bacharel em **Administração**  
 - 💼 Experiência profissional no setor bancário  
-- 📚 Foco atual: **JavaScript, lógica de programação e fundamentos de backend**  
-- 🌍 Interesse em idiomas e tecnologia aplicada a negócios  
+- 📚 Foco atual: **Ciência de Dados**  
+- 🌍 Interesse em idiomas: English, Français, Mandarim, Libras
+- 🎹 Pianista nas horas vagas (Já toque na Record Televisão)
 
 ---
 
