@@ -1,31 +1,72 @@
-# Olá, me chamo Wesley ! 
-## Bem vindo ao meu perfil GitHub 👋
+<h1 align="center">👋 Olá, eu sou o Wesley</h1>
 
-## Contatos:
+<p align="center">
+💻 Desenvolvedor em formação focado em JavaScript, backend e dados <br>
+📊 Experiência no setor bancário (Itaú) <br>
+🚀 Em evolução constante construindo projetos e fortalecendo lógica
+</p>
+
+---
+
+## 🚧 Sobre mim
+
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**  
+- 🎓 Bacharel em **Administração**  
+- 💼 Experiência profissional no setor bancário  
+- 📚 Foco atual: **JavaScript, lógica de programação e fundamentos de backend**  
+- 🌍 Interesse em idiomas e tecnologia aplicada a negócios  
+
+---
+
+## 🌐 Contato
+
 <div>
-<a href="https://www.youtube.com/@wexsantos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/wexsantos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wexdnx/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/wexdnx/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/wexsantos/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.youtube.com/@wexsantos" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 </div>
 
+---
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+## 🧠 Tecnologias
 
+### 📌 Estudando atualmente:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</div>
 
-- 🔭 Atualmente estou Estudando
-- 🌱 Atualmente estou aprendendo ADM, Back-End & Front-End
-- 📫 Como entrar em contato comigo: (11)9870758595 whatsapp
-- 😄 Pronomes: ele, dele.
-- ⚡ Curiosidade: Sou pianista, e amante de idiomas
+### 🛠️ Ferramentas:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/>
+---
 
+## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wexsouza&show_icons=true&theme=radical)![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wexsouza&layout=compact&theme=radical)
+<div align="center">
+<a href="https://github.com/wexsouza">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wexsouza&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexsouza&layout=compact&theme=radical"/>
+</a>
+</div>
 
+---
 
+## 🎯 Próximos passos
 
-
-
-
-
+- Evoluir em **JavaScript avançado**
+- Iniciar estudos em **backend (Node.js)**
+- Aprender **banco de dados (SQL)**
+- Construir projetos práticos e publicar no GitHub
