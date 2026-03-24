@@ -3,7 +3,7 @@
 <p align="center">
 💻 Desenvolvedor em formação focado em JavaScript, backend e dados <br>
 📊 Experiência no setor bancário (Itaú) <br>
-🚀 Em evolução constante construindo projetos e fortalecendo lógica
+🚀 Em evolução constante
 </p>
 
 ---
