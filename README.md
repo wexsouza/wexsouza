@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Wesley</h1>
+# 👋 Olá, eu sou o Wesley
 
 <p align="center">
 💻 Desenvolvedor em formação focado em JavaScript, backend e dados <br>
@@ -10,12 +10,12 @@
 
 ## 🚧 Sobre mim
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**  
-- 🎓 Bacharel em **Administração**  
-- 💼 Experiência profissional no setor bancário  
-- 📚 Foco atual: **Ciência de Dados**  
-- 🌍 Interesse em idiomas: English, Français, Mandarim, Libras
-- 🎹 Pianista nas horas vagas (Já toquei na Record Televisão)
+* 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
+* 🎓 Bacharel em **Administração**
+* 💼 Experiência profissional no setor bancário
+* 📚 Foco atual: **Ciência de Dados**
+* 🌍 Interesse em idiomas: English, Français, Mandarim, Libras
+* 🎹 Pianista nas horas vagas (Já toquei na Record Televisão)
 
 ---
 
@@ -38,6 +38,7 @@
 ## 🧠 Tecnologias
 
 ### 📌 Estudando atualmente:
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -46,6 +47,7 @@
 </div>
 
 ### 🛠️ Ferramentas:
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
@@ -58,8 +60,8 @@
 
 <div align="center">
 <a href="https://github.com/wexsouza">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wexsouza&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexsouza&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wexsouza&show_icons=true&theme=radical&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexsouza&layout=compact&theme=radical&cache_seconds=1800"/>
 </a>
 </div>
 
@@ -67,7 +69,9 @@
 
 ## 🎯 Próximos passos
 
-- Evoluir em **JavaScript avançado**
-- Iniciar estudos em **backend (Node.js)**
-- Aprender **banco de dados (SQL)**
-- Construir projetos práticos e publicar no GitHub
+* 📘 Evoluir em Ciência de Dados
+* ☁️ Aprender mais sobre AWS
+* 🧠 Fortalecer lógica de programação
+* 🐍 Aprofundar estudos em Python
+* ⚙️ Entrar mais no backend
+* 📊 Desenvolver projetos com dados
