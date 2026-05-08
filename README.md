@@ -14,7 +14,7 @@
 - 🎓 Bacharel em **Administração**  
 - 💼 Experiência profissional no setor bancário  
 - 📚 Foco atual: **Ciência de Dados**  
-- 🌍 Interesse em idiomas: English, Français, Mandarim, Libras
+- 🌍 Interesse em idiomas: English, Français, Mandarim, Libras  
 - 🎹 Pianista nas horas vagas (Já toquei na Record Televisão)
 
 ---
@@ -39,7 +39,7 @@
 
 ## 🧠 Tecnologias
 
-### 📌 Estudando atualmente:
+### 📌 Estudando atualmente
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -53,7 +53,7 @@
 
 ---
 
-### 🛠️ Ferramentas
+## 🛠️ Ferramentas
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -69,9 +69,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wexsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wexsouza&show_icons=true&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexsouza&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wexsouza&layout=compact&theme=radical"/>
 
 </div>
 
