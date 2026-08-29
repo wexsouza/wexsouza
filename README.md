@@ -66,17 +66,7 @@
 ---
 
 
-## 📊 Estatísticas
 
-## 📊 Estatísticas Gerais e Linguagens
-
-<div align="center">
-  <!-- Cartão de Estatísticas Gerais (Visão Geral) -->
-  <img src="https://vercel.app" alt="Estatísticas Gerais de wexsouza" height="180" />
-  
-  <!-- Gráfico de Linguagens Mais Usadas (Layout de Pizza) -->
-  <img src="https://vercel.app" alt="Linguagens mais usadas por wexsouza" height="180" />
-</div>
 
 ---
 
