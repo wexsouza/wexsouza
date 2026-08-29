@@ -70,9 +70,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wexsouza&show_icons=true&theme=radical"/>
+<a href="https://github.com/wexsouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wexsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexsouza&layout=compact&theme=radical&langs_count=8"/>
+<a href="https://github.com/wexsouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexsouza&layout=compact&theme=radical&langs_count=8"/>
+</a>
 
 </div>
 
